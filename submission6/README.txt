@@ -7,6 +7,7 @@ https://www.coursera.org/learn/convolutional-neural-networks
 https://www.coursera.org/learn/nlp-sequence-models
 https://www.coursera.org/learn/introduction-git-github
 https://www.coursera.org/learn/html-css-javascript-for-web-developers
+https://www.coursera.org/learn/foundations-data
 
 Completed Datacamp courses using email
 prasenjit9619@gmail.com
